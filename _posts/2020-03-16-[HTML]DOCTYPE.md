@@ -14,12 +14,6 @@ def print_hi(name):
   print("hello", name)
 print_hi('Tom')
 ```
-블로그 제작 중에 심심해서 한 칸 넣어봤어요
-
-깜짝 이벤트
-
-쏠, 꿀꿀한데 한강가실? YES / NO 선택하시오 :) 
-
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
