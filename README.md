@@ -1,3 +1,9 @@
 # SeoYounSeok.github.io
 
-코딩 먼저 -> 블로그
+- DEVELOPER PORTFOLIO SEO YOUN SEOK 
+
+- BASE CONCEPT(~03.20) - CSS + 
+
+- ADD CODING TEST(03.20~)
+
+
